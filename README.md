@@ -20,3 +20,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 LICENSE
 
 [MIT](https://choosealicense.com/licenses/mit/)
+![Kodluyoruzilkrepo](C:\Users\uygar\kodluyoruzilkrepo\Ekran Alıntısı.PNG)
