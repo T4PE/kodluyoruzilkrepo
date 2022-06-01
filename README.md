@@ -21,6 +21,4 @@ LICENSE
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-
-
-![Kodluyoruzilkrepo](Ekran Alıntısı.PNG)
+![Kodluyoruzilkrepo](https://raw.githubusercontent.com/T4PE/kodluyoruzilkrepo/main/Ekran%20Al%C4%B1nt%C4%B1s%C4%B1.PNG)
