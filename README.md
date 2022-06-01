@@ -23,4 +23,4 @@ LICENSE
 
 
 
-![Kodluyoruzilkrepo](C:\Users\uygar\kodluyoruzilkrepo\Ekran Alıntısı.PNG)
+![Kodluyoruzilkrepo](Ekran Alıntısı.PNG)
